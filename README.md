@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Subhankar Ghosh
 
-You can use the [editor on GitHub](https://github.com/subhankar-ghosh/subhankar-ghosh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am Subhankar Ghosh, currently pursuing Masters of Science in Statistics : Analytics Concentration in University of Illinois at Urbana-Champaign. In my masters I am mainly focussing on Statistical Analysis of Data, Machine Learning, Natural Language Processing and Deep Learning.
 
 ### Markdown
 
