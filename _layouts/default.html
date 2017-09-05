@@ -19,7 +19,6 @@
         <a class="headlink" href="../Courses">Courses</a>
         <a class="headlink" href="../Projects">Project</a>
       </h2>
-      <h2 class="headlink">{{ site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
@@ -33,6 +32,7 @@
       {{ content }}
 
       <footer class="site-footer">
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
