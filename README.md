@@ -1,4 +1,4 @@
-## Subhankar Ghosh
+## Subhankar Ghosh ![Image](src)
 
 I am Subhankar Ghosh, currently pursuing Masters of Science in Statistics : Analytics Concentration in University of Illinois at Urbana-Champaign. In my masters I am mainly focussing on Statistical Analysis of Data, Machine Learning, Natural Language Processing and Deep Learning.
 
