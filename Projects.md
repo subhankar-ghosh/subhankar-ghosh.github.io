@@ -1,5 +1,13 @@
-<img align="left" src="Subhankar_Image.jpg" width="200" height="200" >
+###Curb Domestic Violence###
+Feb 2016 – Dec 2016
 
-I am Subhankar Ghosh, currently pursuing Masters of Science in Statistics : Analytics Concentration in University of Illinois at Urbana-Champaign. In my masters I am mainly focussing on Statistical Analysis of Data, Machine Learning, Natural Language Processing and Deep Learning.
-
-I have worked as a Software Engineer in Microsoft R&D India for two years (2015 - 2017) after I graduated from National Institute of Technology, Rourkela where I majored in Computer Science in the year 2015.
+In this project we aimed at detecting domestic violence via an app which recorded sound and through Azure stream analytics the information was being transmitted to an algorithm hosted in AzureML that classified it as domestic violence or not. If domestic violence was detected immediate help was sent.
+Factors taken into account were analysis of text extracted from the speech using speech to text APIs in Cortana Analytics. Text analysis was done using NLP techniques and deeplearning algorithms. 
+Another factor was the decibel level of the sound that was recorded.
+This project is still being researched by the Makerz Bay (Innovation Hub of Microsoft India, Hyderabad)
+We had used:
+-Python
+-Azure Stream Analytics
+-Azure ML
+-Text mining and classification
+-Speech to text in Cortana analytics suite
