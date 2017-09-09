@@ -6,7 +6,7 @@ I was extremely blessed to be part of the following projects through which I hav
 *Feb 2016 – Dec 2016*
 
 In this project we aimed at detecting domestic violence via an app which recorded sound and through Azure stream analytics the information was being transmitted to an algorithm hosted in AzureML that classified it as domestic violence or not. If domestic violence was detected immediate help was sent. This project is still being researched by the Makerz Bay (Innovation Hub of Microsoft India, Hyderabad).
-  We had presented a paper based on this project in  Microsoft Machine Learning, Analytics & Data Science Conference, Redmond, 2015.
+  We had **presented a paper based on this project in  Microsoft Machine Learning, Analytics & Data Science Conference, Redmond, 2015.**
   
   Factors taken into account were analysis of text extracted from the speech using speech to text APIs in Cortana Analytics. Text analysis was done using NLP techniques and deeplearning algorithms. 
   Another factor was the decibel level of the sound that was recorded.
@@ -25,7 +25,8 @@ Azure provides multiple solutions for each problem. So many architectures can be
 
 In a developer environment, utilizing the developers efficiently is the key to improve their productivity and team's performance overall. Presently, senior members assign work items to developers mostly based on intuition. Hence, the estimated time set by senior members within which the work item needs to complete may be inaccurate resulting in either overloading or under-utilizing the developer. Our tool makes sprint planning a lot simpler by guiding the senior member to allocate task to the correct developer and to provide better time estimates for work items, thereby efficiently managing the available resources. The tool also takes a list of work items planned for a particular Sprint and efficiently assigns those work items to members of the team depending on the difficulty of the work item, experience and time availability of the members of the team.
 
-  We had presented a paper based on this project in  Microsoft Machine Learning, Analytics & Data Science Conference, Redmond, 2015. 
+  We had **presented a paper based on this project in  Microsoft Machine Learning, Analytics & Data Science Conference, Redmond, 2015.** 
+  A patent is filed with the United States Patent and Trademark Office with the name ** EFFICIENT TASK PLANNING USING PAST PERFORMANCE.**
 Made use of: Python, C#, SQL, Regression analysis techniques.
 
 ### Characterization of mammograms using classification techniques for breast cancer detection
