@@ -15,6 +15,7 @@ We had used: Python, Azure Stream Analytics, Azure ML, Text mining and classific
 
 ### Azure Virtual Architect
 *Mar 2016 – Jun 2016*
+
 Azure provides multiple solutions for each problem. So many architectures can be built on azure with different cost,efficiency and performance. This virtual architecture takes the requirement as different input parameters and recommends the most optimum solution. Input was given as raw text and we used nltk to parse the input. 
 
    We crawled azure docs and using text mining we built the training dataset. The input features are now mapped to output design via cosine similarly and euclidean distance. This project was done when I was a part of Microsoft R&D India with team mates Swaraj Khadanga and Anubhav Panda.
@@ -29,6 +30,7 @@ Made use of: Python, C#, SQL, Regression analysis techniques.
 
 ### Characterization of mammograms using classification techniques for breast cancer detection
 *Aug 2014 – Mar 2015*
+
 This was my research project in NIT Rourkela while my B Tech. Breast cancer is one of the most rapidly spreading cancers in the world today and so an efficient and accurate method for detecting it is necessary. This project aims at designing and implementing a computer aided model for efficiently and accurately determining from a given mammogram(xray images of women breasts) if it has cancer or not, if yes then its extent accurately.
 
    In this project my role is that of a research assistant where my work is for devising an appropriate data preprocessing technique and classification technique which will classify the mammograms accurately.
