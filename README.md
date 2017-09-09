@@ -15,9 +15,9 @@ of me in UIUC.
 </p>
 
 
-<a href="SubhankarResume.pdf">Resume</a>
-</br>
-<a href="https://www.linkedin.com/in/subhankar-19">Linkedin</a>
-</br>
-<a href="https://www.kaggle.com/sugh93">Kaggle</a>
+   <a href="SubhankarResume.pdf">Resume</a>
+
+   <a href="https://www.linkedin.com/in/subhankar-19">Linkedin</a>
+
+   <a href="https://www.kaggle.com/sugh93">Kaggle</a>
 
