@@ -1,5 +1,10 @@
-<img align="left" src="SubhankarImage.jpg" width="200" height="200" >
+#### Email
+*University of Illinois at Urbana-Champaign:* ghosh17@illinois.edu
+*Gmail:* subhankarghosh884@gmail.com
 
-I am Subhankar Ghosh, currently pursuing Masters of Science in Statistics : Analytics Concentration in University of Illinois at Urbana-Champaign. In my masters I am mainly focussing on Statistical Analysis of Data, Machine Learning, Natural Language Processing and Deep Learning.
+#### Phone
+*Mobile:* +1-(217)-907-5807
 
-I have worked as a Software Engineer in Microsoft R&D India for two years (2015 - 2017) after I graduated from National Institute of Technology, Rourkela where I majored in Computer Science in the year 2015.
+#### Address
+*USA Address:* Apartment 308, 48E John St, Champaign, IL 61820
+*India Address:* 41 Unique Park, Kolkata, West Bengal 700034
