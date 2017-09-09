@@ -1,3 +1,7 @@
+## Projects
+
+I was extremely blessed to be part of the following projects through which I have learnt a lot. I would like to take this opportunity to thank all those people who have helped me in doing the following projects and whet my skills.
+
 ### Curb Domestic Violence
 *Feb 2016 – Dec 2016*
 
