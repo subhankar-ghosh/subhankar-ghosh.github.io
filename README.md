@@ -14,10 +14,10 @@ Mostly self taught before joining UIUC in the Master's program. In the master's 
 of me in UIUC.
 </p>
 
-<p>
+
 <a href="SubhankarResume.pdf">Resume</a>
-</br>
+
 <a href="https://www.linkedin.com/in/subhankar-19">Linkedin</a>
-</br>
+
 <a href="https://www.kaggle.com/sugh93">Kaggle</a>
-</p>
+
