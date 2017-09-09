@@ -1,3 +1,5 @@
+## Contact Information
+
 #### Email
 *University of Illinois at Urbana-Champaign:* ghosh17@illinois.edu
 
