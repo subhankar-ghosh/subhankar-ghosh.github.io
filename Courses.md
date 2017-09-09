@@ -1,5 +1,16 @@
-<img align="left" src="Subhankar_Image.jpg" width="200" height="200" >
+## Courses 
 
-I am Subhankar Ghosh, currently pursuing Masters of Science in Statistics : Analytics Concentration in University of Illinois at Urbana-Champaign. In my masters I am mainly focussing on Statistical Analysis of Data, Machine Learning, Natural Language Processing and Deep Learning.
+Find my Bachelor of Technology in Computer Science Transcript <a href="#">here</a>.
 
-I have worked as a Software Engineer in Microsoft R&D India for two years (2015 - 2017) after I graduated from National Institute of Technology, Rourkela where I majored in Computer Science in the year 2015.
+Courses taken in **University of Illinois at Urbana-Champaign** are following:
+
+* Advanced Data Analysis - STAT 448
+* Applied Regression and Design - STAT 425
+* Basics of Statistical Learning - STAT 430
+* Probability and Statistics I - STAT 410
+
+**Other Courses:**
+
+* Stanford Unversity CS231n: Convolutional Neural Networks for Visual Recognition - *Open Course on Deeplearning in Computer Vision by Stanford University.*
+* Stanford Unversity CS224d: Deep Learning for Natural Language Processing - *Open Course on Deeplearning in Natural Language Processing by Stanford University.*
+* Machine Learning: *Coursera*
