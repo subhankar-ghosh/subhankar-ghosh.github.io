@@ -10,9 +10,9 @@ In this project I am working under Prof. Vetle Torvik in Torvik Research Group o
 ### Software Engineer at Microsoft R&D India Ltd
 *June 2015 - July 2017*
 
-Work closely with business and IT partners during early SDLC phases to understand the business capabilities and goals for the program Develop engineering artifacts such as Logical Data Model, System Conceptual model, Component Interaction Model etc. Create windows and web services based on the Microsoft platform. Understand the existing systems, while analyzing upstream and downstream system impacts.Adept at working cross-group with other teams, as our development projects are often coordinated with other teams around the world.
+Work closely with business and IT partners during early SDLC phases to understand the business capabilities and goals for the program Develop engineering artifacts such as Logical Data Model, System Conceptual model, Component Interaction Model etc. Create windows and web services based on the Microsoft platform. Understand the existing systems, while analyzing upstream and downstream system impacts.Adept at working cross-group with other teams, as our development projects are often coordinated with other teams around the world. Used C#, SQL, javascript, Azure cloud technologies
 
-Used C#, SQL, javascript, Azure cloud technologies
+   Created a system to predict the rewards of employees based on the feedback from teammates and managers automatically. Used NLP and deeplearning techniques to mine the huge amount of employee feedback and come up with a technique that would predict the rewards with 87% accuracy. Used Python, TensorFlow, RNN.
 
 ### Software Engineer Intern at Microsoft R&D India Ltd
 *May 2014 - July 2014*
