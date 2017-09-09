@@ -1,6 +1,6 @@
 ## Courses 
 
-Find my Bachelor of Technology in Computer Science Transcript <a href="#">here</a>.
+Find my Bachelor of Technology in Computer Science Transcript [here](transcriptSubhankar.pdf).
 
 Courses taken in **University of Illinois at Urbana-Champaign** are following:
 
