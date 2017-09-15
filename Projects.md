@@ -5,7 +5,9 @@ I was extremely blessed to be part of the following projects through which I hav
 ### Curb Domestic Violence
 *Feb 2016 – Dec 2016*
 
-In this project we aimed at detecting domestic violence via an app which recorded sound and through Azure stream analytics the information was being transmitted to an algorithm hosted in AzureML that classified it as domestic violence or not. If domestic violence was detected immediate help was sent. This project is still being researched by the Makerz Bay (Innovation Hub of Microsoft India, Hyderabad).
+Domestic Violence is a big issue in our society. Everyday thousands of men and women suffer from domestic violence and majority of these cases do not come out in the open due to various reasons. The victims are generally scared to talk about it and ask for help.
+
+In this project we aimed to detect domestic violence automatically using an app which recorded sound and after analysis of the the sound signals our algorithm predicted domestic violence in real time. The sound signals were transmitted to an algorithm hosted in AzureML that detected domestic violence. If domestic violence was detected immediate help was sent. This project is still being researched by the Makerz Bay (Innovation Hub of Microsoft India, Hyderabad).
   We had **presented a paper based on this project in  Microsoft Machine Learning, Analytics & Data Science Conference, Redmond, 2015.**
   
   Factors taken into account were analysis of text extracted from the speech using speech to text APIs in Cortana Analytics. Text analysis was done using NLP techniques and deeplearning algorithms. 
