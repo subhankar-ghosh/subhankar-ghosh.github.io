@@ -50,5 +50,6 @@ header {
 }
 
 #homeimagediv {
- background-image: url('../../homeimage.png');
+ background-image: url('../../homeimage.png') repeat;
+ min-height: 100%;
 }
