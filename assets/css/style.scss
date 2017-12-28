@@ -10,6 +10,10 @@ h2 {
    font-family:  "Segoe UI";
    font-weight: 100;
  }
+
+header {
+ background-color: argb(0, 0, 0, 0.3);
+}
 .headlink {
    font-family:  "Segoe UI Light";
    font-weight: 200;
@@ -29,9 +33,6 @@ h2 {
 .page-header {
   
 }
-header {
- background-color: argb(0, 0, 0, 0.3);
-}
 .main-content h2 {
  color: black;
 }
@@ -46,4 +47,8 @@ header {
 
 .main-content h4 {
  color: black;
+}
+
+#homeimage {
+ background-image: url('../../homeimage.png');
 }
