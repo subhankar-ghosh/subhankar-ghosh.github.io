@@ -9,7 +9,7 @@ I have worked as a Software Engineer in Microsoft R&D India for two years (2015 
 </p>
 
 
-<p align="justify" style="font-size:30px;font-family:Comic Sans MS">
+<p align="justify" style="font-size:25px;font-family:Comic Sans MS">
   I teach machines
  </p>
 
