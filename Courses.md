@@ -1,13 +1,20 @@
-## Courses 
+# Courses 
 
 Find my Bachelor of Technology in Computer Science Transcript [here](transcriptSubhankar.pdf).
 
-Courses taken in **University of Illinois at Urbana-Champaign** are following:
+Courses taken at **University of Illinois at Urbana-Champaign** are following:
+
+**Fall 2017**
 
 * Advanced Data Analysis - STAT 448
-* Applied Regression and Design - STAT 425
-* Basics of Statistical Learning - STAT 430
+* Applied Regression and Design - [STAT 425](https://github.com/subhankar-ghosh/UIUC/tree/master/Fall17/Applied%20Regression)
+* Basics of Statistical Learning - [STAT 430](https://github.com/subhankar-ghosh/UIUC/tree/master/Fall17/Basic%20Statistical%20Learning)
 * Probability and Statistics I - STAT 410
+
+**Spring 2018**
+
+* Mathematical Statistics - STAT 510
+* Statistical Learning - STAT 542
 
 **Other Courses:**
 
