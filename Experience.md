@@ -5,8 +5,10 @@
 
 The aim of this project is to identify ways of reporting terror news that will be informative but will not instill fear and panic among the public. For this we are working with a huge corpus of New York Times news articles. 
 I am working on two major tasks at the Cline Center for Advanced Social Research (UIUC):
-   -Devising an algorithm that automatically corrects any spelling mistakes in the corpus. Since the text is both digital as well as OCR text so it is full of spelling mistakes. I am using both rule based methods as well as a more sophisticated n-grams language model to incorporate context based methods of spell-checking. I have built an n-gram model from cleaned Wikipedia data and am using it for context based spelling correction.
-   -Using topic modelling techniques to identify articles of interest and also analyze how a topic of interest as developed over time. I am currently conducting research on the important topic modelling methods which have worked well with OCR text.
+   
+   -  Devising an algorithm that automatically corrects any spelling mistakes in the corpus. Since the text is both digital as well as OCR text so it is full of spelling mistakes. I am using both rule based methods as well as a more sophisticated n-grams language model to incorporate context based methods of spell-checking. I have built an n-gram model from cleaned Wikipedia data and am using it for context based spelling correction.
+   
+   -  Using topic modelling techniques to identify articles of interest and also analyze how a topic of interest as developed over time. I am currently conducting research on the important topic modelling methods which have worked well with OCR text.
    
 
 ### Researcher at University of Illinois at Urbana-Champaign
