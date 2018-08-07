@@ -15,6 +15,17 @@ In this project we aimed to detect domestic violence automatically using an app 
 
 We had used: Python, Azure Stream Analytics, Azure ML, Text mining and classification, Speech to text in Cortana analytics suite.
 
+
+### Let's Envisage
+*Aug 2015 – Jun 2016*
+
+In a developer environment, utilizing the developers efficiently is the key to improve their productivity and team's overall performance. Presently, senior members assign work items to developers mostly based on intuition. Hence, the estimated time set by senior members within which the work item needs to be completed, may be inaccurate resulting in either overloading or under-utilizing the developer. 
+
+Our tool makes sprint planning a lot simpler by guiding the senior member to allocate task to the correct developer and to provide better time estimates for work items, thereby efficiently managing the available resources. The tool also takes a list of work items planned for a particular Sprint and efficiently assigns those work items to members of the team depending on the difficulty of the work item, experience and time availability of the members of the team. Made use of: Python, C#, SQL, Azure Machine Learning Suite.
+
+  A patent [EFFICIENT TASK PLANNING USING PAST PERFORMANCE (Patent number: US20180150786A1)](https://patents.google.com/patent/US20180150786A1/en?q=EFFICIENT&q=TASK&q=PLANNING&q=USING&q=PAST&q=PERFORMANCE&oq=EFFICIENT+TASK+PLANNING+USING+PAST+PERFORMANCE) has been published under the United States Patent and Trademark Office.
+
+
 ### Azure Virtual Architect
 *Mar 2016 – Jun 2016*
 
@@ -22,13 +33,6 @@ Azure provides multiple solutions for each problem. So many architectures can be
 
    We crawled azure docs and using text mining we built the training dataset. The input features are now mapped to output design via cosine similarly and euclidean distance. This project was done when I was a part of Microsoft R&D India with team mates Swaraj Khadanga and Anubhav Panda.
    
-### Let's Envisage
-*Aug 2015 – Jun 2016*
-
-In a developer environment, utilizing the developers efficiently is the key to improve their productivity and team's performance overall. Presently, senior members assign work items to developers mostly based on intuition. Hence, the estimated time set by senior members within which the work item needs to complete may be inaccurate resulting in either overloading or under-utilizing the developer. Our tool makes sprint planning a lot simpler by guiding the senior member to allocate task to the correct developer and to provide better time estimates for work items, thereby efficiently managing the available resources. The tool also takes a list of work items planned for a particular Sprint and efficiently assigns those work items to members of the team depending on the difficulty of the work item, experience and time availability of the members of the team. Made use of: Python, C#, SQL, Regression analysis techniques.
-
-  We had **presented a paper based on this project in  Microsoft Machine Learning, Analytics & Data Science Conference, Redmond, 2015.** 
-  A patent is filed with the United States Patent and Trademark Office with the name **EFFICIENT TASK PLANNING USING PAST PERFORMANCE.**
 
 ### Characterization of mammograms using classification techniques for breast cancer detection
 *Aug 2014 – Mar 2015*
