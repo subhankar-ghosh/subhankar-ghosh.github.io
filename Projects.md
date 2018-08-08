@@ -7,11 +7,17 @@ I was extremely blessed to be part of the following projects through which I hav
 
 Domestic Violence is a big issue in our society. Everyday thousands of men and women suffer from domestic violence and majority of these cases do not come out in the open due to various reasons. The victims are generally scared to talk about it and ask for help.
 
-In this project we aimed to detect domestic violence automatically using an app which recorded sound and after analysis of the the sound signals our algorithm predicted domestic violence in real time. The sound signals were transmitted to an algorithm hosted in AzureML that detected domestic violence. If domestic violence was detected immediate help was sent. This project is still being researched by the Makerz Bay (Innovation Hub of Microsoft India, Hyderabad).
-  We had **presented a paper based on this project in  Microsoft Machine Learning, Analytics & Data Science Conference, Redmond, 2015.**
+In this project we aimed to detect domestic violence automatically using an app which recorded sound and after analysis of the the sound signals our algorithm predicted domestic violence in real time. The sound signals were transmitted to an algorithm hosted in AzureML that detected domestic violence. If domestic violence was detected immediate help was sent. This project is still being researched by the Microsoft Research, India.
   
-  Factors taken into account were analysis of text extracted from the speech using speech to text APIs in Cortana Analytics. Text analysis was done using NLP techniques and deeplearning algorithms. 
-  Another factor was the decibel level of the sound that was recorded.
+  We had given a **poster presentation based on this project in  Microsoft Machine Learning, Analytics & Data Science Conference, Redmond, 2015.** You can find the **complete paper [here](MLADS%202016-CurbDomesticViolence.pdf).**
+  
+  Factors taken into account were analysis of text extracted from the speech using speech to text APIs in Cortana Analytics. Text classification was done using a LSTM(Long Short Term Memory) neural network. 
+  
+  Another factor was the decibel level of the sound that was recorded, a simple regression model was trained using decibel levels.
+  
+  An ensemble of the two models gave a recall value of 0.47. The main reason of a low performance is the lack of proper training data.
+  
+  Models were trained on movie subtitles, in which the violent scenes are manually marked as domestic violence. Hopefully the ongoing research on this problem would lead to better performance.
 
 We had used: Python, Azure Stream Analytics, Azure ML, Text mining and classification, Speech to text in Cortana analytics suite.
 
@@ -23,7 +29,7 @@ In a developer environment, utilizing the developers efficiently is the key to i
 
 Our tool makes sprint planning a lot simpler by guiding the senior member to allocate task to the correct developer and to provide better time estimates for work items, thereby efficiently managing the available resources. The tool also takes a list of work items planned for a particular Sprint and efficiently assigns those work items to members of the team depending on the difficulty of the work item, experience and time availability of the members of the team. Made use of: Python, C#, SQL, Azure Machine Learning Suite.
 
-  A patent [EFFICIENT TASK PLANNING USING PAST PERFORMANCE (Patent number: US20180150786A1)](https://patents.google.com/patent/US20180150786A1/en?q=EFFICIENT&q=TASK&q=PLANNING&q=USING&q=PAST&q=PERFORMANCE&oq=EFFICIENT+TASK+PLANNING+USING+PAST+PERFORMANCE) has been published under the United States Patent and Trademark Office.
+  **A patent [EFFICIENT TASK PLANNING USING PAST PERFORMANCE (Patent number: US20180150786A1)](https://patents.google.com/patent/US20180150786A1/en?q=EFFICIENT&q=TASK&q=PLANNING&q=USING&q=PAST&q=PERFORMANCE&oq=EFFICIENT+TASK+PLANNING+USING+PAST+PERFORMANCE) has been published under the United States Patent and Trademark Office.**
 
 
 ### Azure Virtual Architect
