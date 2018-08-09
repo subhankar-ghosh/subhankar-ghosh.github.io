@@ -23,6 +23,6 @@ Courses taken at **University of Illinois at Urbana-Champaign** are following:
 * [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/YXKVX3EGUW5D)
 * [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/FK7BY78ZAWFQ)
 * [Sequence Models](https://www.coursera.org/account/accomplishments/certificate/EFP49A7WYT2J)
-* Stanford Unversity CS231n: Convolutional Neural Networks for Visual Recognition - *Open Course on Deeplearning in Computer Vision by Stanford University.*
-* Stanford Unversity CS224d: Deep Learning for Natural Language Processing - *Open Course on Deeplearning in Natural Language Processing by Stanford University.*
+* [Stanford Unversity CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) - *Open Course on Deeplearning in Computer Vision by Stanford University.*
+* [Stanford Unversity CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/) - *Open Course on Deeplearning in Natural Language Processing by Stanford University.*
 * Machine Learning: *Coursera*
