@@ -18,7 +18,9 @@ In the Spring 2017 I have worked on two major tasks:
 ### Researcher at University of Illinois at Urbana-Champaign
 *September 2017 - December 2017*
 
-In this [project](https://github.com/subhankar-ghosh/UIUC/tree/master/Fall17/Research) I worked under Prof. Vetle Torvik in Torvik Research Group on stylometry. Trying to determine style of every author and the age group or the ethnicity of the author of the research paper. I came up with a mathematical model for style of writing of different authors. 
+[Detailed Report](Readme-style.pdf) and [Code](https://github.com/subhankar-ghosh/UIUC/tree/master/Fall17/Research).
+
+In this project I worked under Prof. Vetle Torvik in Torvik Research Group on stylometry. Trying to determine style of every author and the age group or the ethnicity of the author of the research paper. I came up with a mathematical model for style of writing of different authors. 
 
    I used standard NLP techniques along with statistical analysis in this project.
 
