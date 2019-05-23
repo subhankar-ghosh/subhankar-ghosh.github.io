@@ -1,4 +1,4 @@
-<center><img align="center" src="SubhankarImage.jpg" width="300" height="300" hspace="15" ></center>
+<img align="middle" src="SubhankarImage.jpg" width="300" height="300" hspace="15" class="center" >
 
 <p align="justify" class="para">
 I am Subhankar Ghosh, currently pursuing Masters of Science in Statistics in University of Illinois at Urbana-Champaign. In my masters I am mainly focussing on Machine Learning, Natural Language Processing and Deep Learning.
