@@ -1,7 +1,7 @@
 <img align="middle" src="SubhankarImage.jpg" width="300" height="300" hspace="15" class="center" >
 
 <p align="justify" class="para">
-Hi, I am Subhankar! I am a computer science engineer working on machine Learning. I like sketching, playing football and T
+Hi, I am Subhankar! I am a computer science engineer working on machine Learning. I like sketching, playing football and cup cakes.
 </p>
 
 <p align="justify" class="para">
