@@ -1,18 +1,13 @@
 <img align="middle" src="SubhankarImage.jpg" width="300" height="300" hspace="15" class="center" >
 
 <p align="justify" class="para">
-I am Subhankar Ghosh, currently pursuing Masters of Science in Statistics in University of Illinois at Urbana-Champaign. In my masters I am mainly focussing on Machine Learning, Natural Language Processing and Deep Learning.
+Hi, I am Subhankar! I am a computer science engineer working on machine Learning. I like sketching, playing football and T
 </p>
 
 <p align="justify" class="para">
-I was a Software Engineering Intern at Google in summer 2018, where I worked on outlier detection using deep learning techniques.
-I have worked as a Software Engineer in Microsoft R&D India for two years (2015 - 2017) after I graduated from National Institute of Technology, Rourkela where I majored in Computer Science in the year 2015.
+I hold a Masters degree from University of Illinois at Urbana-Champaign in Statistics. I interned at Google in summer 2018 and worked as a Software Engineer in Microsoft R&D India for two years. I graduated from National Institute of Technology, Rourkela where I majored in Computer Science in the year 2015.
 </p>
 
-
-<p align="justify" style="font-size:25px;font-family:Comic Sans MS">
-  I teach machines ;)
- </p>
 
 [Resume](Subhankar_Resume.pdf)
 
