@@ -5,13 +5,10 @@ Hi, I am Subhankar! I am a computer science engineer working on machine Learning
 </p>
 
 <p align="justify" class="para">
-I hold a Masters degree from University of Illinois at Urbana-Champaign in Statistics. I interned at Google in summer 2018 and worked as a Software Engineer in Microsoft R&D India for two years. I graduated from National Institute of Technology, Rourkela where I majored in Computer Science in the year 2015.
+I hold a Masters degree from University of Illinois at Urbana-Champaign in Statistics. Currently I work as an Applied Research Scientist in Conversational AI at NVIDIA. Previously I have interned at Google and worked as a Software Engineer at Microsoft R&D India.
+
+My blog does not reflect the views of any organization I'm affiliated with.
 </p>
 
 
-[Resume](Subhankar_Resume.pdf)
-
 [Linkedin](https://www.linkedin.com/in/subhankar-19)
-
-[Kaggle](https://www.kaggle.com/sugh93)
-

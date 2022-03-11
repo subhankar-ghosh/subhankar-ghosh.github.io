@@ -1,9 +1,14 @@
 ## Experience
 
-### Research Assistant at Cline Center for Advanced Social Research (UIUC)
-*January 2017 - Present* 
+### Deep Learning Engineer at NVIDIA
+*July 2019 - Present*
 
-I work on the [ResTeCo](https://clinecenter.illinois.edu/project/NewsAnalytics/responsible-terrorism-coverage-resteco) project. The aim of this project is to identify ways of reporting terror news that will be informative but will not instill fear and panic among the public. Also the news reports should not help the terrorists in achieving what they want like fame, importance etc. 
+I have worked on multiple deep learning solutions in Computer vision and graph neural networks. Currently, I am actively involved in Conversational AI research.
+
+### Research Assistant at Cline Center for Advanced Social Research (UIUC)
+*January 2017 - May 2019* 
+
+I worked on the [ResTeCo](https://clinecenter.illinois.edu/project/NewsAnalytics/responsible-terrorism-coverage-resteco) project. The aim of this project is to identify ways of reporting terror news that will be informative but will not instill fear and panic among the public. Also the news reports should not help the terrorists in achieving what they want like fame, importance etc. 
 
 For this we are working with a huge corpus of New York Times news articles. 
 In the Spring 2017 I have worked on two major tasks:
