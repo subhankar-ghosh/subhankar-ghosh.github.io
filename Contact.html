@@ -1,0 +1,178 @@
+---
+layout: default
+---
+
+<style>
+.contact-intro {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #555;
+    font-size: 1.1em;
+}
+
+.contact-form {
+    max-width: 600px;
+    margin: 0 auto 40px auto;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #333;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+    font-family: inherit;
+    box-sizing: border-box;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+    outline: none;
+    border-color: #159957;
+    box-shadow: 0 0 0 2px rgba(21, 153, 87, 0.1);
+}
+
+.form-group textarea {
+    resize: vertical;
+    min-height: 120px;
+}
+
+.submit-btn {
+    background-color: #159957;
+    background-image: linear-gradient(120deg, #155799, #159957);
+    color: white;
+    padding: 14px 40px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.submit-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(21, 153, 87, 0.3);
+}
+
+.divider {
+    margin: 50px 0;
+    border: none;
+    border-top: 2px solid #eff0f1;
+}
+
+.social-links {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.social-btn {
+    display: inline-block;
+    margin: 10px;
+    padding: 14px 28px;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.social-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.btn-email { background-color: #159957; }
+.btn-linkedin { background-color: #0077b5; }
+.btn-github { background-color: #333; }
+.btn-blog { background-color: #21759b; }
+
+.contact-footer {
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 6px;
+    color: #666;
+}
+
+@media (max-width: 600px) {
+    .social-btn {
+        display: block;
+        margin: 10px auto;
+        max-width: 250px;
+    }
+}
+</style>
+
+<h2>Get In Touch</h2>
+
+<p class="contact-intro">
+I'd love to hear from you! Feel free to reach out through any of the channels below.
+</p>
+
+<h3>Send Me a Message</h3>
+
+<form class="contact-form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+  <div class="form-group">
+    <label for="name">Name *</label>
+    <input type="text" id="name" name="name" required>
+  </div>
+
+  <div class="form-group">
+    <label for="email">Email *</label>
+    <input type="email" id="email" name="_replyto" required>
+  </div>
+
+  <div class="form-group">
+    <label for="subject">Subject</label>
+    <input type="text" id="subject" name="_subject">
+  </div>
+
+  <div class="form-group">
+    <label for="message">Message *</label>
+    <textarea id="message" name="message" required></textarea>
+  </div>
+
+  <div style="text-align: center;">
+    <button type="submit" class="submit-btn">Send Message</button>
+  </div>
+</form>
+
+<hr class="divider">
+
+<h3 style="text-align: center;">Connect With Me</h3>
+
+<div class="social-links">
+  <a href="mailto:subhankarghosh884@gmail.com" class="social-btn btn-email">
+    📧 Email Me
+  </a>
+
+  <a href="https://www.linkedin.com/in/subhankar-19" target="_blank" class="social-btn btn-linkedin">
+    💼 LinkedIn
+  </a>
+
+  <a href="https://github.com/subhankar-ghosh" target="_blank" class="social-btn btn-github">
+    💻 GitHub
+  </a>
+
+  <a href="https://easyintuitions.wordpress.com/" target="_blank" class="social-btn btn-blog">
+    ✍️ Blog
+  </a>
+</div>
+
+<div class="contact-footer">
+  <strong>Email:</strong> <a href="mailto:subhankarghosh884@gmail.com">subhankarghosh884@gmail.com</a>
+</div>
